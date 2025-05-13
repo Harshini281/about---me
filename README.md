@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **VLSI (verilog coding)**
 
-- 👯 I’m looking to collaborate on **to collaborate on VLSI...**
+- 👯 I’m looking to collaborate on **frontend**
 
 - 👨‍💻 All of my projects are available at [https://Harshini281.github.io](https://Harshini281.github.io)
 
